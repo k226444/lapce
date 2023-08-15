@@ -87,7 +87,7 @@ package = "tracing-appender"
 
 [workspace.dependencies.alacritty_terminal]
 git = "https://github.com/k226444/alacritty"
-branch = "release/v0.12.1/lapce"
+rev = "6143b3f4eb352ff4ab36149ce5ba8c6ab04e415a"
 
 [profile.release-lto]
 inherits = "release"
